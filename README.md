@@ -4,4 +4,4 @@
 
 2. LetItGo [Link](https://github.com/BSC-0530/LetITGo.git)
 
-3. NodeJs 게시판 구현(진행중)
+3. Spring-boot 게시판
